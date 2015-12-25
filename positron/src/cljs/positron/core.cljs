@@ -4,7 +4,7 @@
 
 (defn main-page
   []
-  [:div "Hello World!"])
+  [:div "Hello ClojureScript Electron World!"])
 
 (defn mount-root
   []
